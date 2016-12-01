@@ -12,11 +12,11 @@
     ],
     "require": {
         "php": "~7.0.0",
-        "roave/security-advisories": "dev-master",        
-        "codingmatters/zend-expressive-zend-component": "~0.1 || dev-develop",
-        "codingmatters/expressive-error-handler": "~0.1 || dev-develop",
-        "codingmatters/expressive-web-helper": "~0.1 || dev-develop",
-        "codingmatters/site-module-ini": "~0.6 || dev-develop"
+        "roave/security-advisories": "dev-master",
+        "codingmatters/zend-expressive-zend-component": "~0.1",
+        "codingmatters/expressive-error-handler": "~0.1",
+        "codingmatters/expressive-web-helper": "~0.1",
+        "codingmatters/site-module-ini": "~0.6"
     },
     "extra": {
         "zf": {
