@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "~7.0.0",
+        "php": "^7.1",
         "roave/security-advisories": "dev-master",
         "codingmatters/zend-expressive-zend-component": "~0.1",
         "codingmatters/expressive-error-handler": "~0.1",
@@ -23,6 +23,8 @@
       	    "config-provider": [
                 "CodingMatters\\ZendExpressive",
                 "CodingMatters\\ZendExpressive\\ZendComponents",
+                "CodingMatters\\ExpressiveErrorHandler",
+                "CodingMatters\\ExpressiveWebHelper",
                 "Site"
             ]
         }
