@@ -15,8 +15,7 @@
         "roave/security-advisories": "dev-master",
         "codingmatters/zend-expressive-zend-component": "~0.1",
         "codingmatters/expressive-error-handler": "~0.1",
-        "codingmatters/expressive-web-helper": "~0.1",
-        "codingmatters/site-module-ini": "~0.6"
+        "codingmatters/expressive-web-helper": "~0.2"
     },
     "extra": {
         "zf": {
@@ -24,8 +23,7 @@
                 "CodingMatters\\ZendExpressive",
                 "CodingMatters\\ZendExpressive\\ZendComponents",
                 "CodingMatters\\ExpressiveErrorHandler",
-                "CodingMatters\\ExpressiveWebHelper",
-                "Site"
+                "CodingMatters\\ExpressiveWebHelper"
             ]
         }
     }
