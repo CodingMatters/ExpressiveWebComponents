@@ -12,9 +12,9 @@
     "require": {
         "php": "^7.1.1",
         "roave/security-advisories": "dev-master",
-        "codingmatters/zend-expressive-zend-component": "^0.3",
-        "codingmatters/expressive-error-handler": "^0.1",
-        "codingmatters/expressive-web-helper": "^0.4"
+        "codingmatters/zend-expressive-zend-component": "^1.0 || ~0.3",
+        "codingmatters/expressive-error-handler": "^1.0 || ~0.1",
+        "codingmatters/expressive-web-helper": "^1.0 || ~0.4"
     },
     "extra": {
         "zf": {
