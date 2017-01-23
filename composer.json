@@ -20,7 +20,7 @@
         "zf": {
       	    "config-provider": [
                 "Zend\\Expressive\\ConfigProvider",
-                "Zend\\Components\\ConfigProvider",
+                "Zend\\Component\\ConfigProvider",
                 "CodingMatters\\ExpressiveErrorHandler\\ConfigProvider",
                 "CodingMatters\\ExpressiveWebHelper\\ConfigProvider"
             ]
